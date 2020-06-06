@@ -1,0 +1,162 @@
+[
+  {
+    "mode": "NULLABLE", 
+    "name": "activity_hub_seq", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "sat_load_date", 
+    "type": "TIMESTAMP"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "activity_name", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "distance_m", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "distance_mi", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "elapsed_time_s", 
+    "type": "INTEGER"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "activity_type", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "start_date", 
+    "type": "TIMESTAMP"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "average_speed_m", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "average_speed_mi", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "max_speed_m", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "max_speed_mi", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "hash_diff", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "record_source", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "delete_ind", 
+    "type": "BOOLEAN"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "activity_description", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "moving_time_s", 
+    "type": "INTEGER"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "total_elevation_gain_m", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "elev_high_m", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "elev_low_m", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "trainer", 
+    "type": "BOOLEAN"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "commute", 
+    "type": "BOOLEAN"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "manual", 
+    "type": "BOOLEAN"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "private", 
+    "type": "BOOLEAN"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "flagged", 
+    "type": "BOOLEAN"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "workout_type", 
+    "type": "INTEGER"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "kilojoules", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "average_watts", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "device_watts", 
+    "type": "BOOLEAN"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "max_watts", 
+    "type": "INTEGER"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "weighted_average_watts", 
+    "type": "INTEGER"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "calories", 
+    "type": "FLOAT"
+  }
+]
